@@ -1,0 +1,4 @@
+- bugs
+- errors
+- weird behavior
+- "why did this break?"

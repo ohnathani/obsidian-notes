@@ -1,0 +1,3 @@
+- if candidate has more than 50% votes win
+- least eliminate
+- continue if less than 50%
