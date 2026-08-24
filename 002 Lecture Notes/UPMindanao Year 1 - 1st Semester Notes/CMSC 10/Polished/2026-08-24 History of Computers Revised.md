@@ -1,3 +1,4 @@
+- this doc contains a more detailed look on the history of computers
 ## Phase 1: The Mechanical Era (ca. 3000 BCE–1940)
 ---
 Manual input, uses gears, emergence of symbolic, programmable automation.
@@ -155,3 +156,13 @@ Exposing quantum states—qubits, superposition, and entanglement—as a computa
 - Donovan, Dr. (2025, February 19). _History of quantum computing: Complete timeline (1900–2026)_. Quantum Zeitgeist. [https://quantumzeitgeist.com/history-of-quantum-computing/](https://quantumzeitgeist.com/history-of-quantum-computing/)
 - Ivezic, M. (2019, March 5). _Feynman and the early promise of quantum computing_. PostQuantum. [https://postquantum.com/quantum-computing/feynman-quantum-history/](https://postquantum.com/quantum-computing/feynman-quantum-history/)
 - QuantumOps School. (2026). _The complete timeline of quantum computing development: From theory to reality_. QuantumOps. [https://quantumopsschool.com/blog/the-complete-timeline-of-quantum-computing-development-from-theory-to-reality/](https://quantumopsschool.com/blog/the-complete-timeline-of-quantum-computing-development-from-theory-to-reality/)
+
+## Insights
+---
+The history of computers has come a long way, thanks to the computer scientists of the past who contributed to and innovated computing devices. These devices have helped the world grow, become more modernized, and make everyday tasks easier through the use of technology. Past computer scientists invented computational devices that could perform calculations quickly, solve complex mathematical problems, and automate tedious data processing. These technologies were also used for military and scientific purposes.
+
+Those who may not know, computing is finite; it is limited by how much your computational device can handle. Computer scientists have continuously pushed that ceiling higher, bringing us to where we are today. It all started with the invention of the abacus, and fast-forward to the present, we are now living in the modern world.
+
+Computing has come a long, long way. For example, the brand-new iPhone 17 Pro Max is roughly 2.3 million times faster than the Apollo Guidance Computer, the computer used during the 1969 Moon landing. Another notable innovation, and my personal favorite, is IBM's Deep Blue, a famous chess computer that sparked global awareness of AI and defeated world champion Garry Kasparov in a historic six-game match in 1997. Although Deep Blue is completely different from the AI we know today, such as ChatGPT, it helped pave the way for the development of modern AI, particularly predictive and machine-learning systems.
+
+Overall, the invention and development of computers have played a pivotal role in shaping how our society has grown and will continue to grow in the future.
