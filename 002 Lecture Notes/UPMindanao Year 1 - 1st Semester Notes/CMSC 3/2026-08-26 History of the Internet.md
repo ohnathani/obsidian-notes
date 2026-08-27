@@ -17,7 +17,7 @@
 	- 1995
 		- internet commercialization
 	- 2000 present
-		- c
+		- 
 
 ### Computer Network 
 1. Personal Area Network (PAN) or Wireless PAN (WPAN)
