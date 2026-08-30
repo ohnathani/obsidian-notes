@@ -1,0 +1,68 @@
+Related: [[2026-08-26 History of the Internet]]
+
+- Static HTML website (Early 1990s)
+	- earliest form of website
+	- fixed 
+	- text-based pages with HTML
+	- Characteristics
+		- coded in HTML
+		- text based
+		- fixed static
+		- limited interactivity
+		- basic formatting such as fonts colors and headings
+- Intro to Graphics (Mid 1990s)
+	- to improve websites and make it more attractivce
+	- Characteristics
+		- images
+		- gif used
+		- visually appealing
+		- limited because of slow internet
+- Table Based Layout (Late 1990s- Early 2000s)
+	- used tables for layout 
+	- css was introduced for layout
+	- characteristics
+		- used to structure allowed dev to create organized designsed 
+- Flash and Multimedia (Late 1990s - Early 2000s)
+	- Flash (1996) allowed for interactive multimedia content 
+	- webs used flash but became slow
+	- has interactive aspect
+- CSS based layout and Web Standards (Early 2000s)
+	- introduced more organized approach to webdev app
+	- appearance and content are separate
+	- smaller and more efficient
+- Web 2 & Users Centric Design
+	- more interactive and dynamic and user participation
+- Responsive Web Design (2010s)
+	- change based on device characteristics
+	- mobile support
+- Flat and Material Design
+	- minimalist design
+- Material design
+	- dev by Google provides guidelines for creating consistent
+- Single Page Applications (SPA)
+	- use jsx to load content dynamically and gets data from webserver rather than refreshing whole page
+	- Characteristics
+		- Dynamic Content
+		- Client-Side Routing
+		- Faster interactions
+		- Challenges with SEO
+- Progressive Web Apps (PWA)
+	- web app combines best features of web and native mobile apps
+	- intro in 2015 by Google to help business to make cross platform with one codebas
+	- works on any device
+	- reliatble
+	- uses HTML, CSS, and JS stack
+	- Characteristics
+		- Offline
+		- Responsive
+		- App-like interactions
+		- Push notifs
+		- Can install
+		- Security - served over https
+	- Advantages
+		- fast
+		- cost effective
+		- offline
+		- auto update
+- Voice Interfaces and AI Integration (Present and Future)
+	- 

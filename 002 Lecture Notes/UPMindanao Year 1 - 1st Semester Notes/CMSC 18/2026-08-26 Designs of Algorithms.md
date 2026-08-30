@@ -1,3 +1,6 @@
+Related: [[003 Algorithms CS50 Week 3 Notes]]
+Related: [[001 C CS50 Week 1 Notes]]
+
 ### Programming
 - programming is not just coding
 - solving problems systematically

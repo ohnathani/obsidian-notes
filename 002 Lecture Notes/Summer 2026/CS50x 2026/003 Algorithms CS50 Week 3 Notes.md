@@ -1,4 +1,6 @@
-## Linear Search 
+Related: [[002 Arrays CS50 Week 2 Notes]]
+
+## Linear Search
 ---
 - as the name suggests, the computer searches in a linear manner—left to right from location ``0`` to ``n amount of arrays`` 
 - human pseudocode looks like:

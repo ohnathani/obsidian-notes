@@ -1,5 +1,7 @@
 - step by step mind process ni nats
 - review and redo
+Related: [[002 Arrays CS50 Week 2 Notes]]
+
 ## IDEAS
 ---
 -  make array with said values of letters only in CAPS

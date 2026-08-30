@@ -1,4 +1,6 @@
 - this doc contains a more detailed look on the history of computers
+Related: [[2026-08-26 History of the Internet]]
+
 ## Phase 1: The Mechanical Era (ca. 3000 BCE–1940)
 ---
 Manual input, uses gears, emergence of symbolic, programmable automation.

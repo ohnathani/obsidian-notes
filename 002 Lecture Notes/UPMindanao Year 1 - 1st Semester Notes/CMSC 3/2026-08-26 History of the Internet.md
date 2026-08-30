@@ -1,3 +1,5 @@
+Related: [[2026-08-28 Evolution of Websites]]
+
 - Internet
 	- network
 		- connects all computers in the world
@@ -28,7 +30,7 @@
 	- short range wireless network in, on, around body
 	- e.g., smartwatch
 3. Local Area Network (LAN)
-	- group of computers and network devics connected together
+	- group of computers and network devices connected together
 		- max 100m
 4. Campus Area Network (CAN)
 	- multiple LAN connections

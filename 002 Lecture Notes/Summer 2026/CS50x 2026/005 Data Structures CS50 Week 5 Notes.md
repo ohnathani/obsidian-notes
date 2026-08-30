@@ -1,3 +1,6 @@
+Related: [[003 Algorithms CS50 Week 3 Notes]]
+Prerequisite: [[002 Arrays CS50 Week 2 Notes]]
+
 ## Data Structures
 ---
 - forms of organization of memory 
