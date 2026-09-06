@@ -1,0 +1,80 @@
+## Behavior Modification
+---
+- Reasons for low level of participation in physical activity
+	- not enough time
+	- health reasons (asthma, etc.)
+	- family obligations
+	- lack of motivation
+	- weather
+	- lack of facilities or workout partner
+	- negative attitude towards physical activity
+	- lack of knowledge regarding physical activity
+- Barriers to change
+	- lack of core values
+	- procrastination
+	- preconditioned cultural beliefs
+	- gratification
+	- risk complacency
+	- complexity
+	- indifference and helplessness
+	- rationalization
+	- illusions of invincibility
+- Motivating self to change 
+	- self efficacy
+		- the belief in one's ability to perform a task
+	- sources of self efficacy
+		- mastery experiences
+		- vicarious experiences
+			- if others can do it i can do it too
+		- verbal persuasion
+- Motivation to change
+	- motivation
+		- desire to do something
+	- locus of control
+		- figurative "place" a person designates as the source of responsibity for the events of his or her life
+		- internal vs external (continuum)
+			- people can develop a more internal locus of control
+		- impediment from taking action
+			- problems competence
+			- problems of confidence
+			- problems of motivation
+- Behavior change theories
+	- Learning theories
+		- learned by observing
+	- Problem Solving model
+	- Social cognitive theory
+	- Relapse prevention model
+	- transtheoretical model
+
+- Spiral Model
+	- one may slip from stage to stage
+- Personal Factors
+	- Pre disposing factors
+		- factors that make you more likely to adopt a healthy lifestyle
+	- Enabling factors
+		- factors that help you carry out healthy lifestyle plan
+		- skills that help people follow through with decisions to make changes in behaviors
+	- Reinforcing factors
+		- provide encouragement to maintain healthy lifestyle
+		- Help people stick with a behavior change
+- Maintenance
+- Action
+- Preparation
+- Contemplation
+- Precontemplation
+
+Processes techniques of change
+- Consciousness-raising
+- Social Liberation
+- Self Analysis
+- Emotional Arousal
+- Positive Outlook
+- Commitment
+- Behavior Analysis
+- Goal Setting
+- Self re-evaluation
+- Countering
+- Monitoring 
+- Environment control
+- Helping relationships
+- Rewards
