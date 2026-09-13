@@ -249,6 +249,9 @@ void meow(int n)
 void print_row(int width);
 
 int main(void)
+###
+###
+###
 {
 	const int i = 3;
 	for (int i = 0; i < n; i++) 
