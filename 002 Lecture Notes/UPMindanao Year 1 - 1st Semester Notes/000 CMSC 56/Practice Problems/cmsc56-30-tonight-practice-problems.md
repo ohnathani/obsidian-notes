@@ -1,7 +1,7 @@
+
 # CMSC 56: Set Theory 30-Question Focused Practice Exam
 
 ---
-
 ## Part I: The Practice Problems
 
 ### Section A: Set Foundations and Representations (Problems 1–6)
@@ -10,7 +10,7 @@
 
 2. **Membership Notation:** Let $S$ be a set. Write down the formal mathematical notation for:
    * I) An object $x$ being a member of $S$.
-   * II) An object $y$ not being a member of $S$.
+   * II) An object $y$ not being a member of $S$. 
 
 3. **Roster Method Distinctness Rule:** A student writes the set of letters in the word `"DATA"` in roster form as $A = \{D, A, T, A\}$. 
    * Is this representation correct under the rules of the roster method? 
