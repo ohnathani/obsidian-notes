@@ -1,5 +1,7 @@
 - this doc contains a more detailed look on the history of computers
 Related: [[2026-08-26 History of the Internet]]
+Related: [[2026-09-01 History of Computing|History of computing]]
+Related: [[2026-08-27 What is Computer Science|What is computer science]]
 
 ## Phase 1: The Mechanical Era (ca. 3000 BCE–1940)
 ---

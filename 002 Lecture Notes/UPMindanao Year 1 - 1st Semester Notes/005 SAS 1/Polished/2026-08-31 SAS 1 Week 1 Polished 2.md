@@ -1,6 +1,9 @@
 # PART 3 — PERSON & SOCIETY
 
 ## 1. Bayan
+Related: [[2026-08-25 SAS 1 Week 1|Week 1 raw overview]]
+Related: [[2026-08-27 SAS 1 Week 1|Person and society raw notes]]
+Related: [[2026-08-31 SAS 1 Week 1 Polished|Full Week 1 polished notes]]
 
 - **Bayan**
     

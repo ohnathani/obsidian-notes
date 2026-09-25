@@ -1,5 +1,8 @@
 ## CMSC 18 - Computer Programming 1
 ---
+Related: [[2026-08-26 Designs of Algorithms|Designs of algorithms]]
+Related: [[2026-09-02 C Development Cycle|C development cycle]]
+Related: [[001 C CS50 Week 1 Notes]]
 ### **Consultation Hours**
 **Tues Thurs**
 11AM-12PM

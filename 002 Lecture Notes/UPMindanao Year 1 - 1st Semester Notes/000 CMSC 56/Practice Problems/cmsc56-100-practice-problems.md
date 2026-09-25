@@ -1,5 +1,14 @@
 # CMSC 56: Comprehensive 100-Problem Set Theory Practice Question Bank
 
+## Related notes
+
+- [[2026-09-06 Week 1 Sets|Sets lecture note]]
+- [[2026-09-14 Week 4 Relations|Relations lecture note]]
+- [[cram-reviewer relations|Relations cram reviewer]]
+- [[Obsidian Notes/002 Lecture Notes/UPMindanao Year 1 - 1st Semester Notes/000 CMSC 56/Practice Problems/cmsc56-50-practice-problems|50-problem practice bank]]
+- [[cmsc56-50-item-quiz|50-item practice quiz]]
+- [[cmsc56-30-tonight-practice-problems|30-question focused practice]]
+
 ---
 
 ## PART I: THE PRACTICE PROBLEMS

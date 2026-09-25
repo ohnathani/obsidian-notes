@@ -1,5 +1,6 @@
 Related: [[003 Algorithms CS50 Week 3 Notes]]
 Related: [[001 C CS50 Week 1 Notes]]
+Related: [[2026-09-02 C Development Cycle|C development cycle]]
 
 ### Programming
 - programming is not just coding

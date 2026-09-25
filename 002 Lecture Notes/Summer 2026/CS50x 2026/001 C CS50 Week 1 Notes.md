@@ -1,5 +1,8 @@
 Date: 2026-06-19
 Tags:  #C #cs50 
+Related: [[2026-09-02 C Development Cycle|C development cycle]]
+Related: [[2026-08-26 Designs of Algorithms|Designs of algorithms]]
+Related: [[002 Arrays CS50 Week 2 Notes]]
 ## Linux
 ---
 - "compiler" used ``make``

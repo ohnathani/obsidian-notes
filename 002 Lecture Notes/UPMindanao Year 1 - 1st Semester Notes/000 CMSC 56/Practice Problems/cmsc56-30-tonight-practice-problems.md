@@ -1,6 +1,13 @@
 
 # CMSC 56: Set Theory 30-Question Focused Practice Exam
 
+## Related notes
+
+- [[2026-09-06 Week 1 Sets|Sets lecture note]]
+- [[Obsidian Notes/002 Lecture Notes/UPMindanao Year 1 - 1st Semester Notes/000 CMSC 56/Practice Problems/cmsc56-50-practice-problems|50-problem practice bank]]
+- [[cmsc56-50-item-quiz|50-item practice quiz]]
+- [[cmsc56-100-practice-problems|100-problem practice bank]]
+
 ---
 ## Part I: The Practice Problems
 

@@ -2,6 +2,8 @@ Date: 2026-06-21
 Tags: #arrays #cs50 #C #strings #CLA #exitstatus
 
 refer to [[001 C CS50 Week 1 Notes]] for syntax notes
+Related: [[003 Algorithms CS50 Week 3 Notes]]
+Related: [[scrabble.c|Scrabble project]]
 ## Debugging 
 ---
 - use breakpoints to add a "stop"

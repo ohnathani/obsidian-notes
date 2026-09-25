@@ -1,4 +1,7 @@
 # SELF WITH RIGHTS
+Related: [[2026-09-01 SAS 1 Week 2|Raw notes]]
+Related: [[Obsidian Notes/002 Lecture Notes/UPMindanao Year 1 - 1st Semester Notes/005 SAS 1/2026-09-03 SAS 1 Week 2|ISR schema raw notes]]
+Related: [[Obsidian Notes/002 Lecture Notes/UPMindanao Year 1 - 1st Semester Notes/005 SAS 1/2026-09-03 SAS 1 Week 2|ISR schema notes]]
 
 ## 1. Self, Person, and Being
 

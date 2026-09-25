@@ -1,4 +1,7 @@
 - Stressor
+
+Related: [[2026-09-02 Behavior Modification]]
+Related: [[2026-09-02 Week 2 Behavior Modification Polished]]
 	- triggers physical and psychological reactions
 - Stress response
 	- physical and emotional reactions to stressor

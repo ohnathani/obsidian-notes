@@ -1,4 +1,11 @@
 # CMSC 56: Set Theory 50-Problem Practice Question Bank
+
+## Related notes
+
+- [[2026-09-06 Week 1 Sets|Sets lecture note]]
+- [[cmsc56-50-item-quiz|50-item practice quiz]]
+- [[cmsc56-30-tonight-practice-problems|30-question focused practice]]
+- [[cmsc56-100-practice-problems|100-problem practice bank]]
 *Discrete Mathematics in Computer Science I*
 
 ---

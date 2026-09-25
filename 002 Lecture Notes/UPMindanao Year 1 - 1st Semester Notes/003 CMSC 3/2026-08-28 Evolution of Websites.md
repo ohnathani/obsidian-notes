@@ -1,4 +1,5 @@
 Related: [[2026-08-26 History of the Internet]]
+Related: [[cmsc3-quiz|CMSC 3 quiz cheatsheet]]
 
 - Static HTML website (Early 1990s)
 	- earliest form of website

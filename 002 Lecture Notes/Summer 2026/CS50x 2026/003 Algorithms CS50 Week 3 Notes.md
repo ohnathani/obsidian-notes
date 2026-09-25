@@ -1,4 +1,7 @@
 Related: [[002 Arrays CS50 Week 2 Notes]]
+Related: [[2026-08-26 Designs of Algorithms|Designs of algorithms]]
+Related: [[005 Data Structures CS50 Week 5 Notes]]
+Related: [[mario.c|Mario project]]
 
 ## Linear Search
 ---

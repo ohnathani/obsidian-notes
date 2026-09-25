@@ -1,5 +1,7 @@
 ## Behavior Modification
 ---
+Related: [[2026-09-02 Week 2 Behavior Modification Polished]]
+Related: [[2026-09-09 Week 3 Stress Management]]
 - Reasons for low level of participation in physical activity
 	- not enough time
 	- health reasons (asthma, etc.)

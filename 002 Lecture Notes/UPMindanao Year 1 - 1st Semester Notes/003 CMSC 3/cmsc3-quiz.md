@@ -1,5 +1,10 @@
 # CMSC 3 Complete Quiz Cheatsheet
 
+## Related notes
+
+- [[2026-08-26 History of the Internet]]
+- [[2026-08-28 Evolution of Websites]]
+
 ---
 
 ## 1. Core Web Design Principles & Planning

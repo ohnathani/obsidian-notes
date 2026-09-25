@@ -1,5 +1,7 @@
 ## C Development Cycle
 ---
+Related: [[001 C CS50 Week 1 Notes]]
+Related: [[2026-08-26 Designs of Algorithms|Designs of algorithms]]
 - create
 - compile
 - link to create .exe

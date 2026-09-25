@@ -1,4 +1,6 @@
 # Behavior Modification
+Related: [[2026-09-02 Behavior Modification]]
+Related: [[2026-09-09 Week 3 Stress Management]]
 
 ## 1. Reasons for Low Participation in Physical Activity
 

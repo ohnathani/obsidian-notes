@@ -1,5 +1,6 @@
 
 Related: [[2026-08-24 History of Computers Revised]]
+Related: [[2026-09-01 History of Computing|History of computing]]
 
 - computer -> computare
 - computer (1646) - one who computes

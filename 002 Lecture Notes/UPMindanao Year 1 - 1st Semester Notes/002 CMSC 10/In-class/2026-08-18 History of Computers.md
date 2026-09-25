@@ -1,5 +1,7 @@
 ## Early Computing Devices
 ---
+Related: [[2026-08-24 History of Computers Revised|history of computers revised]]
+Related: [[2026-08-27 What is Computer Science|what is computer science]]
 - circa 3000 BCE - Abacus
 	- earliest tools for math calculation
 -  1642 - Pascaline

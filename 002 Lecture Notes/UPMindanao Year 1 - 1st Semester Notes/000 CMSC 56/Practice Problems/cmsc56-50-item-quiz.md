@@ -1,5 +1,12 @@
 # CMSC 56: 50-Item Set Theory Practice Quiz & Answer Key
 
+## Related notes
+
+- [[2026-09-06 Week 1 Sets|Sets lecture note]]
+- [[Obsidian Notes/002 Lecture Notes/UPMindanao Year 1 - 1st Semester Notes/000 CMSC 56/Practice Problems/cmsc56-50-practice-problems|50-problem practice bank]]
+- [[cmsc56-30-tonight-practice-problems|30-question focused practice]]
+- [[cmsc56-100-practice-problems|100-problem practice bank]]
+
 This 50-item practice quiz is structured around the 8 core fundamental questions of set theory from **CMSC 56 Week 1 (1.-SETS.pdf)**. Work through the questions to test your knowledge, then review the complete step-by-step Answer Key and explanations at the end of the document.
 
 ---

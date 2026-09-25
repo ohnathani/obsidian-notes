@@ -1,5 +1,6 @@
 Related: [[003 Algorithms CS50 Week 3 Notes]]
 Prerequisite: [[002 Arrays CS50 Week 2 Notes]]
+Related: [[004 Memory CS50 Week 4 Notes]]
 
 ## Data Structures
 ---
